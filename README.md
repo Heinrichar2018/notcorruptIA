@@ -19,5 +19,8 @@ NotcorruptIA es una herramienta que utiliza inteligencia artificial avanzada par
 
 ### 1. Instalar dependencias
 
-```bash
-pip install -r requirements.txt
+python entrenar_modelo.py
+
+python app.py
+
+
