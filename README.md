@@ -24,3 +24,7 @@ python entrenar_modelo.py
 python app.py
 
 
+flask==2.3.3
+gunicorn==21.2.0
+scikit-learn==1.4.1
+joblib==1.3.2
