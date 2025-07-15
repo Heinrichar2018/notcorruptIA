@@ -1,0 +1,7 @@
+NotcorruptIA/
+├── app.py               ← Backend Flask
+├── frontend.html        ← Interfaz web
+├── requirements.txt     ← Dependencias
+├── README.md            ← Este archivo
+├── modelo_malware.pkl   ← Modelo IA entrenado
+├── vectorizer.pkl       ← Vectorizador del texto
